@@ -1,0 +1,5 @@
+wget==3.2
+pandas==1.4.2
+numpy==1.21.5
+scipy==1.7.3
+watermark==2.3.1
